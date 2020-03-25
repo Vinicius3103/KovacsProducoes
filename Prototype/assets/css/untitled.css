@@ -1,0 +1,39 @@
+.bg-dark-a {
+}
+
+.bg-dark-a {
+  background-color: rgba(51,51,51,0.53);
+}
+
+.card-groups .row .col {
+  text-align: center;
+}
+
+@media (min-width: 300px) {
+  .item-row {
+    font-size: 20px;
+    margin-left: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .item-row {
+    font-size: 16px;
+    margin-left: 5px;
+  }
+}
+
+@media (min-width: 992px) {
+  .item-row {
+    font-size: 20px;
+    margin-left: 5px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .item-row {
+    font-size: 20px;
+    margin-left: 5px;
+  }
+}
+
